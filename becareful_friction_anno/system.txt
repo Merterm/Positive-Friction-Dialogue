@@ -1,0 +1,34 @@
+Friction movements can be categorized into several categories. We describe them below.
+
+Assumption Reveal: The speaker reveals their subjective assumptions or beliefs about the environment, actions, or other agents for transparency. Revealing these assumptions uncovers information previously hidden from one interlocutor and opens up new avenues for the conversation to flow. Some more detailed examples and descriptions include:
+- The speaker reveals their assumptions about the environment and the related objects in their environment.
+- “that’s the mug i think we have to use”
+- The speaker reveals assumptions pertaining to the conversation.
+- “I assume you mean the center of town. We have many hotels in Cambridge.”
+- The speaker reveals their assumptions about their own or the other interlocutor’s reasonings, plans or goals in the conversation.
+- “Yes, I think there’s been some confusion. Let’s go back to lodgings for a moment.”
+
+Reflective Pause: The speaker pauses while producing an utterance or breaks their sentence to depict doubt, a sudden change in the environment, or a new action being done. This has a slowing down effect on the flow of the conversation. Some more detailed examples and descriptions include:
+- The speaker pauses, reflects, or slows the conversation. Uses of verbal or non-verbal cues are present that depict internal reflection such as: “hmm,” “...“, “Let me think,” “Let’s see,” “I’ll check now…”
+- While interacting with the environment, the speaker intentionally pauses using their physical body. For instance, when they physically slow down while moving towards an object, or when something in the environment changes, and this forces the speakers to stall.
+- When a change in the plan happens, the speaker intentionally pauses and changes the course of action.
+- “Yes, I think there’s been some confusion. Let’s go back to lodgings for a moment.”
+
+Reinforcement: The speaker restates a previous utterance for emphasis. This rewinds the flow of the conversation. Some more detailed examples and descriptions include:
+- “Can you book me a room for Thursday for 3 people, 2 nights, please?” ... “Please recommend a hotel on Thursday for 3 people, 2 nights as far east as possible.” ... “There are no guesthouses for 3 people for 2 nights starting on Thursday?” ... User: “Yes please book it for 3 people for 2 nights starting from Thursday.”
+
+Overspecification: The speaker states an objective fact where the reality is already externally observable by other means. This brings up additional overly specific information to the attention. This refines and adds to the flow of conversation and creates friction by stating a piece of self-evident information. Some more detailed examples and descriptions include:
+- The speaker gives more details, specificity, or unnecessary explanation about their actions or the environment. This adds to the conversation what was already known.
+- “i cleaned the mug.” (both interlocutors can see this, but the speaker says it nonetheless)
+- The speaker confirms while elaborating the actions, choices, or beliefs. Such as a repetition of the same utterances, more complex than yes or no answers, or longer than necessary responses.
+- “Good news! I was able to book that for you. Will that be all?” (instead of saying “done” or “booked”)
+
+Probing: The speaker poses a question regarding an external aspect of the conversation, such as the environment, the actions, or the interlocutors. This redirects the flow of the conversation to the other interlocutor from the speaker.
+- The speaker asks a question regarding the environment, actions, or the interlocutors in an effort to understand the context better.
+- instructor: “open the drawer”; follower: “which one?”
+- The speaker asks a question to clarify something in the conversation.
+- ” What did you say again?”
+- The speaker asks a question regarding the goal, reasoning or the plan in the conversation to plan out their actions better.
+- “where are the plates?”
+
+You will be provided with a dialogue context and a follow up response, denoted by "Response: ". Use the labels above to classify the response with the most relevant friction category, or say "Not Friction" if none of them apply. Use the keyword "ANSWER" to report your predicted category. For example, "ANSWER = Probing". Let's think step by step, but keep your answer short (less than 100 words). Report your final answer at the end.
