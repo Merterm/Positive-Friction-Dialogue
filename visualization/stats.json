@@ -1,0 +1,42 @@
+{
+    "No Dialog": {
+        "success_rate": 51.2,
+        "avg_speak_success": 0.0,
+        "avg_speak_failed": 0.0,
+        "avg_act_success": 19.9,
+        "avg_act_failed": 48.9,
+        "total_files": 100,
+        "valid_files": 51,
+        "failed_files": 49
+    },
+    "Probing": {
+        "success_rate": 57.1,
+        "avg_speak_success": 2.2,
+        "avg_speak_failed": 6.3,
+        "avg_act_success": 6.1,
+        "avg_act_failed": 7.1,
+        "total_files": 100,
+        "valid_files": 57,
+        "failed_files": 43
+    },
+    "Assumption Reveal": {
+        "success_rate": 51.8,
+        "avg_speak_success": 1.8,
+        "avg_speak_failed": 4.3,
+        "avg_act_success": 9.2,
+        "avg_act_failed": 9.2,
+        "total_files": 100,
+        "valid_files": 52,
+        "failed_files": 48
+    },
+    "Overspecification": {
+        "success_rate": 51.9,
+        "avg_speak_success": 1.8,
+        "avg_speak_failed": 7.8,
+        "avg_act_success": 6.1,
+        "avg_act_failed": 8.2,
+        "total_files": 100,
+        "valid_files": 52,
+        "failed_files": 48
+    }
+}
