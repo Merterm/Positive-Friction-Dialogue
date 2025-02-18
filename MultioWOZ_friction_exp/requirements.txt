@@ -1,0 +1,9 @@
+openai 
+httpx
+fuzzywuzzy
+python-Levenshtein
+backoff
+gradio
+rstr
+together
+nltk

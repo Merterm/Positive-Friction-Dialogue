@@ -1,0 +1,7 @@
+{
+	"azure_endpoint": "", 
+	"api_key": "",
+	"api_version": "2024-02-15-preview",
+	"user_model": "gpt-4o",
+	"system_model": "gpt-4o"
+}
